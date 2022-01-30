@@ -17,7 +17,6 @@ Agora meu objetivo como desenvolvedor é primeiro dominar HTML, CSS e JS, para e
   <img align="center" alt="Math-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Math-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
-  
  ## 
   
 <div>
@@ -25,6 +24,5 @@ Agora meu objetivo como desenvolvedor é primeiro dominar HTML, CSS e JS, para e
   <a href="mailto:mspalhares01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matheus_sp17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-palhares-b90386210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="" target="_blank"></a><br><br>
   
 </div>
