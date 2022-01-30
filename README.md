@@ -16,8 +16,7 @@ Agora meu objetivo como desenvolvedor é primeiro dominar HTML, CSS e JS, para e
   <img align="center" alt="Math-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Math-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Math-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
- ## 
+</div><br>
   
 <div>
     <a href="https://api.whatsapp.com/send?phone=5531983656391" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
