@@ -6,9 +6,7 @@ Eu nasci em São Paulo, mas morei praticamente minha vida toda em Rio das Ostras
 Agora meu objetivo como desenvolvedor é primeiro dominar HTML, CSS e JS, para em seguida começar a trabalhar com React.js. Após isso, aprender Node.js e também estudar ferramentas de criação de app, como o React Native. 
 
 Quer conhecer mais o meu trabalho entre no meu site Portfólio.
-<div align="left"><br>
-  👉 <a href="https://palhares17.github.io/portfolio/">
-</div>
+[👉 https://palhares17.github.io/portfolio](https://palhares17.github.io/portfolio)
 
 
 <div align="left"><br>
