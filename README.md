@@ -5,6 +5,9 @@
 Eu nasci em São Paulo, mas morei praticamente minha vida toda em Rio das Ostras - RJ 🏖️, e agora estudo na Universidade Federal de Viçosa (UFV). Gosto muito de aprender sobre tudo, de música até física quântica. Começei a programar aos 16 anos de idade só pela diversão, aprendendo Python. Então, foi só na faculdade que me interessei pelo Front-end, pois eu tive uma ótima oportunidade de entrar na SetApp, um empresa júnior da UFV.<br>
 Agora meu objetivo como desenvolvedor é primeiro dominar HTML, CSS e JS, para em seguida começar a trabalhar com React.js. Após isso, aprender Node.js e também estudar ferramentas de criação de app, como o React Native. 
 
+Quer conhecer mais o meu trabalho entre no meu site Portfólio.
+👉 <a href="https://palhares17.github.io/portfolio/">
+
 <div align="left"><br>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palhares17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
